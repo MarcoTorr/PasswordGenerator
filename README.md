@@ -30,3 +30,7 @@ If there are comments or tips, let me know.
 Screenshot preview:
 
 <img width="1129" alt="Screenshot" src="./assets/Screenshot.jpg">
+
+Deployed link:
+
+https://marcotorr.github.io/PasswordGenerator/
